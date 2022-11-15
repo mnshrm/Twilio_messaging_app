@@ -27,7 +27,7 @@ class makeClient {
   }
 
   /**
-   * @description - Provide text to send along with 'from' user and 'to' user
+   * @description - sends media files along with text to 'to' user
    * @param {Object} packet - js object which contains media URLs and text body.
    * @param {String} from - 'from' phone number with country code in the form of a string
    * @param {String} to -'to' phone number with country code in the form of a string
