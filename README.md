@@ -1,4 +1,4 @@
-# WA_teams
+# Twilio messaging app  
 
 *Add environment variables named as PORT, TWILIO_SID and TWILIO_KEY*
 
